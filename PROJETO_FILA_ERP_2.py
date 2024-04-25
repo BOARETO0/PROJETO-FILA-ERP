@@ -1067,8 +1067,3 @@ def rodar_job():
 
 rodar_job() 
 
-#relatorio_va05()
-
-#obter_ufs_cidades_cep()
-
-#analise_das_ovs()
